@@ -1,5 +1,5 @@
 ---
-title: Team Home
+title: Causal inference and earth embeddings informed digital twins to predict human caused fire spread
 public_mode_toggle: true
 ---
 
