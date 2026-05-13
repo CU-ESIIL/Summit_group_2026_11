@@ -20,7 +20,10 @@ public_mode_toggle: true
     
 
 # TwinFlames
+
 ## Embedding informed digital twin for causal fire spread prediction
+
+![workflow](assets/hero/image (11).png)
 
 !!! note "Day 1 directions"
     Change the title to the name of your project.
@@ -154,7 +157,7 @@ People who could use this: Local governments, fire fightings teams, forest servi
 
     Add 2-4 promising data sources (links +1-line notes)    
 
-![Exploration figure](docs/assets/explorations/explore_data_plot.png)
+![Exploration figure](assets/explorations/explore_data_plot.png)
 
 *Snapshot showing initial data patterns.*
 
@@ -188,7 +191,7 @@ Methods/technologies we are testing:
 
 ### Visuals
 
-![Method or workflow visual](docs/assets/hero/workflow.png)
+![Method or workflow visual](assets/hero/workflow.png)
 
 ### Next Steps
 
@@ -204,7 +207,7 @@ Long term:
 
 ## Team Photo { #team-photo }
 
-![Team hero image](docs/assets/hero/hero.png)
+![Team hero image](assets/hero/hero.png)
 
 *Team members and collaborators who contributed to this project.*
 
@@ -224,7 +227,7 @@ Headline 3 — implication for practice or policy
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
-![Story visual](docs/assets/figures/main_result.png)
+![Story visual](assets/figures/main_result.png)
 
 *Visual 1: the main pattern or output we want people to remember.*
 
