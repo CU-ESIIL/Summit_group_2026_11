@@ -21,9 +21,8 @@ public_mode_toggle: true
 
 # TwinFlames
 
-## Embedding informed digital twin for causal fire spread prediction
+## Embedding informed digital twin for causal fire affected area prediction
 
-![workflow](assets/hero/team_11.png)
 
 !!! note "Day 1 directions"
     Change the title to the name of your project.
@@ -129,8 +128,7 @@ Long term:
 
 Our working question:
 
--Predicting spread area of wildfires if iginited
--High burn probabilities that were not impacted in previous wildfires?
+-What is the affected burn area if ignited?
 ...
 
 What would count as progress:
