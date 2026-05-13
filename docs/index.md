@@ -130,22 +130,24 @@ Long term:
 
 Our working question:
 
+-Predicting spread area of wildfires if iginited
+-High burn probabilities that were not impacted in previous wildfires?
 ...
 
 What would count as progress:
 
-...
+-Create a reproducable workflow incorporating earth embeddings to inform digital twin 
+-earth embeddings for potential impacted areas/footprints 
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
-This matters because:
-
+This matters because: Wildfires causes human life risks, damages infrastructure and impact livelihoods, early prediction and limiting its impact can save lives and reduce its impact on economy. 
 ...
 
-People who could use this:
+People who could use this: Local governments, fire fightings teams, forest services 
 
 ...
 
