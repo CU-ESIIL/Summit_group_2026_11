@@ -68,6 +68,8 @@ public_mode_toggle: true
 
 | Yuying Ren | University of Colorado Boulder | yuying.ren@colorado.edu | YuyingRenCU |
 
+| Asha paudel | NextEra | paudelasha@gmail.com | paudelasha |
+
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
