@@ -40,10 +40,10 @@ public_mode_toggle: true
 !!! note "How to replace the image above"
     Upload an image that represents your project and welcome people to your page. 
     
-    Upload your own image to `docs/assets/hero/` and replace the file named `hero.png`. Use a wide image if you can, then refresh the site preview to check how it looks.
-    Keep the file path `docs/assets/hero/hero.png` if you want the Markdown above to keep working.
+    Upload your own image to `assets/hero/` and replace the file named `hero.png`. Use a wide image if you can, then refresh the site preview to check how it looks.
+    Keep the file path `assets/hero/hero.png` if you want the Markdown above to keep working.
 
-    [Open image folder for changing image](https://github.com/CU-ESIIL/Summit_group_2026_11/tree/main/docs/assets/hero){ .md-button target="_blank" rel="noopener" }
+    [Open image folder for changing image](https://github.com/CU-ESIIL/Summit_group_2026_11/tree/main/assets/hero){ .md-button target="_blank" rel="noopener" }
 
 
 [See a completed example](example.md){ .md-button }
