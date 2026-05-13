@@ -88,8 +88,8 @@ public_mode_toggle: true
 
 Our team norms:
 
-- ...
-- ...
+- Turn taking
+- Transparent on AI use
 - ...
 
 Our decision making strategy:
