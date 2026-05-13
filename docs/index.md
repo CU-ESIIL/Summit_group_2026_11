@@ -97,7 +97,7 @@ Our team norms:
 
 Our decision making strategy:
 
-...
+We will use gradient-of-agreement checks for major choices and or more to voting if we hit any bottlenecks
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
