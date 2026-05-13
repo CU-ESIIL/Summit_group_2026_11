@@ -21,6 +21,8 @@ public_mode_toggle: true
 
 # TwinFlames
 
+## Embedding informed digital twin for causal fire spread prediction
+
 !!! note "Day 1 directions"
     Change the title to the name of your project.
 
