@@ -191,7 +191,7 @@ Methods/technologies we are testing:
 
 ### Visuals
 
-![Method or workflow visual](assets/hero/image (11).png)
+![Method or workflow visual](assets/hero/workflow.png)
 
 ### Next Steps
 
