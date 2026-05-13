@@ -116,6 +116,7 @@ Short term:
 
 
 Long term:
+
 -Digital twin for scenarios with weather data and impact area estimates for particular location
 
 - ...
