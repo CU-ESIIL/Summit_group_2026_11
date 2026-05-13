@@ -95,7 +95,8 @@ Our team norms:
 
 - Turn taking
 - Transparent on AI use
-- ...
+- Dot voting (2 votes each)
+- Gradients of agreement
 
 Our decision making strategy:
 
