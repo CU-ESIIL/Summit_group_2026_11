@@ -1,5 +1,5 @@
 ---
-title: Embedding informed digital twin for causal fire spread prediction
+title: Embedding informed digital twin for causal fire affected area prediction
 public_mode_toggle: true
 ---
 
