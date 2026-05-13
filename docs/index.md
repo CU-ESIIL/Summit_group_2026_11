@@ -203,7 +203,7 @@ Long term:
 
 ## Team Photo { #team-photo }
 
-![Team photo](assets/team/team_photo.jpg)
+![Team photo](assets/team/hero.png)
 
 *Team members and collaborators who contributed to this project.*
 
