@@ -62,9 +62,13 @@ public_mode_toggle: true
     [Edit People in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_11/edit/main/docs/index.md?plain=1#L63){ .md-button target="_blank" rel="noopener" }
 
 | Name | Affiliation | Contact | Github |
+
 |Danish Kumar |University of Maryland |dkumar18@umd.edu|dkumar18-umd|
+
 |Nayani Ilangakoon | CIRES| ginikanda.ilangakoon@colorado.edu|chathu84 |
+
 | Yuying Ren | University of Colorado Boulder | yuying.ren@colorado.edu | YuyingRenCU |
+
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
