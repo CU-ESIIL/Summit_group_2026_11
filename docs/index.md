@@ -99,7 +99,7 @@ Our team norms:
 
 Our decision making strategy:
 
-We will use gradient-of-agreement checks for major choices and or more to voting if we hit any bottlenecks
+We will use gradient-of-agreement checks for major choices and or move to voting if we hit any bottlenecks
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -112,9 +112,11 @@ We will use gradient-of-agreement checks for major choices and or more to voting
 
 Short term:
 
-...
+-Earth Embeddings to inform digital twin model development
+
 
 Long term:
+-Digital twin for scenarios with weather data and impact area estimates for particular location
 
 - ...
 - ...
