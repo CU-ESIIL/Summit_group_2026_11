@@ -1,6 +1,5 @@
 ---
-title: Causal inference and earth embeddings informed digital twins to predict human caused fire spread
-Alternative (Embedding informed digital twin for causal fire spread prediction)
+title: Embedding informed digital twin for causal fire spread prediction
 public_mode_toggle: true
 ---
 
