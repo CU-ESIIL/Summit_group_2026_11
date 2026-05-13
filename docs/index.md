@@ -144,7 +144,7 @@ What would count as progress:
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
-This matters because: Wildfires causes human life risks, damages infrastructure and impact livelihoods, early prediction and limiting its impact can save lives and reduce its impact on economy. 
+This matters because: Wildfires causes human life risks, damages infrastructure and impact livelihoods, early prediction and limiting its impact can save lives and reduce its impact on economy. Our project utilize the earth embeddings methods to create more informative and efficient predictions that presented by digital twins to make the scientific results usable for different stakeholders. 
 ...
 
 People who could use this: Local governments, fire fightings teams, forest services 
