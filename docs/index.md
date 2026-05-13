@@ -23,6 +23,8 @@ public_mode_toggle: true
 
 ## Embedding informed digital twin for causal fire affected area prediction
 
+![Method or workflow visual](assets/hero/hero.png)
+
 
 !!! note "Day 1 directions"
     Change the title to the name of your project.
