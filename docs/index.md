@@ -23,7 +23,7 @@ public_mode_toggle: true
 
 ## Embedding informed digital twin for causal fire spread prediction
 
-![workflow](assets/hero/image (11).png)
+![workflow](assets/hero/team_11.png)
 
 !!! note "Day 1 directions"
     Change the title to the name of your project.
