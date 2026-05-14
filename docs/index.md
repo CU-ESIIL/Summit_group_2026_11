@@ -24,10 +24,6 @@ public_mode_toggle: true
 ## Embedding informed digital twin for causal fire affected area prediction
 
 
-
-
-
-
 !!! note "Day 1 directions"
     Change the title to the name of your project.
 
@@ -87,9 +83,6 @@ Our decision making strategy:
 
 We will use gradient-of-agreement checks for major choices and or move to voting if we hit any bottlenecks
 
-## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
-
-!!! note "Day 2 Tasks"
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_11/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
