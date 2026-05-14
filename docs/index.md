@@ -146,6 +146,8 @@ People who could use this: Local governments, fire fightings teams, forest servi
 
 -Earth Embeddings data from google AlphaEarth Foundation
 
+![Exploration figure](assets/explorations/Wildfires and Embeddings Data Set Merged.png)
+
 ![Exploration figure](assets/explorations/explore_data_plot.png)
 
 *Snapshot showing initial data patterns.*
