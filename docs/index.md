@@ -100,7 +100,9 @@ Short term:
 Long term:
 
 -Interactive maps with spatial layers on risk, previous burned and potential impacted areas and model outputs
+
 -Digital twin scenario explorer with weather data and impact area estimates for particular location
+
 -Dashboard to monitor key metrics and trends over time
 
 
