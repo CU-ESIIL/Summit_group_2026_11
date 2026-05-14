@@ -24,9 +24,6 @@ public_mode_toggle: true
 ## Use the power of embedding and digital twin to identify probable burn area if we detect an ignition location near real time.
 
 
-!!! note "Day 1 directions"
-    Change the title to the name of your project.
-
     [Edit Day 1 setup in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_11/edit/main/docs/index.md?plain=1#L21){ .md-button target="_blank" rel="noopener" }
 
 !!! tip "For ESIIL staff"
@@ -36,29 +33,9 @@ public_mode_toggle: true
 
     [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_11/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
 
-!!! note "How to replace the image above"
-    Upload an image that represents your project and welcome people to your page. 
-    
-    Upload your own image to `assets/hero/` and replace the file named `hero.png`. Use a wide image if you can, then refresh the site preview to check how it looks.
-    Keep the file path `assets/hero/hero.png` if you want the Markdown above to keep working.
-
-    [Open image folder for changing image](https://github.com/CU-ESIIL/Summit_group_2026_11/tree/main/assets/hero){ .md-button target="_blank" rel="noopener" }
-
-
-[See a completed example](example.md){ .md-button }
 
 ## People { #people .oasis-report-out-context }
 
-!!! note "Day 1 task"
-    Get to know your team: share your cards (5-7 mins). Update your team roster (2-3 min).
-
-    Use the in-person name cards to guide quick introductions.
-
-    | Name card prompts | Follow-up notes |
-    |---|---|
-    | ![Name card prompts for name, institution, area of expertise, research difference, and questions](assets/team/name-card-prompts.png) | ![Follow-up notes card with space for names and follow-up ideas](assets/team/name-card-followups.png) |
-
-    [Edit People in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_11/edit/main/docs/index.md?plain=1#L63){ .md-button target="_blank" rel="noopener" }
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
