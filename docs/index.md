@@ -123,7 +123,7 @@ What would count as progress:
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
-- Causal inference and earth embedding can improve prediction/estimation of fire impacted areas if ignition happens and help inform decision making. 
+- Use the power of causal inference and earth embedding can improve prediction/estimation of fire impacted areas if ignition happens and help inform decision making. 
 - The idea is to input fire ignition locations as soon as we detected one (may be from GOES-R satellite data for real-time fire detection) to the twin model
 - Retrieve weather data closest that time
 - Retrive embedding data from 5 day-sentinel-2 or any closeset data to the time of ignition detection
