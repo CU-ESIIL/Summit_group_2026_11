@@ -20,7 +20,6 @@ public_mode_toggle: true
     
 
 # TwinFlames
-Use the power of embedding and digital twin to identify probable burn area if we detect an ignition location near real time.
 
 ## Use the power of embedding and digital twin to identify probable burn area if we detect an ignition location near real time.
 
@@ -106,12 +105,15 @@ Long term:
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
-Our working question:
+# Our working question:
 
 -What is the probable affected area if ignited?
-...
+ 
+ Use the power of embedding and digital twin to identify probable burn area if we detect an ignition location near real time.
 
-What would count as progress:
+
+
+# What would count as progress:
 
 -Create a reproducable workflow incorporating earth embeddings to inform digital twin 
 
