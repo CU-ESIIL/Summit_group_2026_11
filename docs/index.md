@@ -146,7 +146,7 @@ People who could use this: Local governments, fire fightings teams, forest servi
 
 -Earth Embeddings data from google AlphaEarth Foundation
 
-![Exploration figure](assets/explorations/Wildfires and Embeddings Data Set Merged.png)
+![Exploration figure](assets/figures/Wildfires_Embeddings Data.png)
 
 *Snapshot showing initial data patterns.*
 
@@ -200,11 +200,12 @@ Long term:
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
 Headline 1 — what, where, how much
-
-...
+![Story visual](assets/figures/Boxplot.png)
+![Story visual](assets/figures/count_dist.png)
 
 Headline 2 — change/trend/contrast
-
+![Story visual](assets/figures/var_importance.png)
+![Story visual](assets/figures/location_testing.png)
 ...
 
 Headline 3 — implication for practice or policy
@@ -213,8 +214,8 @@ Headline 3 — implication for practice or policy
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
+
 ![Story visual](assets/figures/Boxplot.png)
-![Story visual](assets/figures/main_result.png)
 
 *Visual 1: the main pattern or output we want people to remember.*
 
