@@ -120,15 +120,17 @@ Our working question:
 What would count as progress:
 
 -Create a reproducable workflow incorporating earth embeddings to inform digital twin 
--earth embeddings for potential impacted areas/footprints 
+
+-Earth embeddings for potential impacted areas/footprints 
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
+-Causal inference and earth embedding can improve prediction/estimation of fire impacted areas and help inform decision making 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
-This matters because: Wildfires causes human life risks, damages infrastructure and impact livelihoods, early prediction and limiting its impact can save lives and reduce its impact on economy. Our project utilize the earth embeddings methods to create more informative and efficient predictions that presented by digital twins to make the scientific results usable for different stakeholders. 
-...
+This matters because: Wildfires threaten human life, damages infrastructure and impact livelihoods and local economies. As climate changes, early prediction and limiting its impact can save lives and reduce its impact on economy. Our project leverages earth observation embeddings to build fire spread models that are more accurate and computationally efficient than conventional approaches, then delivers those results through interactive digital twins that translate complex science into clear, actionable intelligence.
+
 
 People who could use this: Local governments, fire fightings teams, forest services 
 
@@ -136,10 +138,9 @@ People who could use this: Local governments, fire fightings teams, forest servi
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "data exploration"
-    Provide a snapshot showing some initial data patterns. 
+-GEE fire database for colorado for 2020
 
-    Add 2-4 promising data sources (links +1-line notes)    
+-Earth Embeddings data from google AlphaEarth Foundation
 
 ![Exploration figure](assets/explorations/explore_data_plot.png)
 
