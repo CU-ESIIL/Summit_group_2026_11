@@ -166,23 +166,23 @@ Methods/technologies we are testing:
 
 | Method or technology | What we tested | Early note |
 |---|---|---|
-| ... | ... | ... |
+| Random Forest| Prediction of burn/no-burn and probable affected area | Initial test/no tuning of parameters yet |
 | ... | ... | ... |
 | ... | ... | ... |
 | ... | ... | ... |
 
 ### Challenges identified
 
-- ...
+- currently we use average emmbedding values per band per fire location and did not investigate the full range of values in raster format
 - ...
 
 
 
 ### Next Steps
 
-Short term: 
+Short term: Fine tune the model and also include the cause of fire which we seems has an impact on burned and non-buned areas if we used only embedding and climate
 
-Long term: 
+Long term: Buld the UI to predict the potential affected area based on user inputs
 
 !!! note "Day 3 Tasks"
     Sythesis: highlight 2-3 visuals that tell the story; keep text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions -> Data/Methods -> Findings -> Next 
