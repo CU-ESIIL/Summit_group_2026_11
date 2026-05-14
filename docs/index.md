@@ -23,7 +23,7 @@ public_mode_toggle: true
 
 ## Embedding informed digital twin for causal fire affected area prediction
 
-![Team](assets/hero/team_11.png)
+
 
 
 
@@ -76,22 +76,6 @@ public_mode_toggle: true
 
 !!! note "Day 1 task"
 
-    Suggested Self-Facilitation Instructions:
-    
-    - Round Robin: Everyone shares 1 norm that they think will be important for their team during the Summit and perhaps following the Summit (2 min).
-
-    - After everyone has shared, make a list with as many norms as possible in GitHub (5–7 min).
-
-    - Vote on your top 3 ideas. (Each person gets 3 votes; you can use all your votes on 1 idea or spread them out) (2 min).
-
-    - In GitHub, move all team norms with votes to the top of the list.
-
-    | Gradients of agreement | 
-    |---|
-    | ![Gradients of agreement scale for Summit teams](assets/hero/norms.png) | 
-
-    [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_11/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
-
 Our team norms:
 
 - Turn taking
@@ -106,23 +90,18 @@ We will use gradient-of-agreement checks for major choices and or move to voting
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
 !!! note "Day 2 Tasks"
-    Morning Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes)
-
-    Afternoon Focus: try a few datasets and analyses. Keep it visual, keep it simple. Update the site to reflect what you test. 
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_11/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
 Short term:
 
--Earth Embeddings to inform digital twin model development
-
+- Create workflow for integrating earth embedding to inform digital twin for fire detection and impact area estimates
 
 Long term:
+-Interactive maps with spatial layers on risk, previous burned and potential impacted areas and model outputs
+-Digital twin scenario explorer with weather data and impact area estimates for particular location
+-Dashboard to monitor key metrics and trends over time
 
--Digital twin for scenarios with weather data and impact area estimates for particular location
-
-- ...
-- ...
 
 ![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
 
@@ -208,8 +187,7 @@ Long term:
 
 
 ## Team Photo { #team-photo }
-
-![Team hero image](assets/hero/hero.png)
+![Team](assets/hero/team_11.png)
 
 *Team members and collaborators who contributed to this project.*
 
