@@ -148,8 +148,6 @@ People who could use this: Local governments, fire fightings teams, forest servi
 
 ![Exploration figure](assets/explorations/Wildfires and Embeddings Data Set Merged.png)
 
-![Exploration figure](assets/explorations/explore_data_plot.png)
-
 *Snapshot showing initial data patterns.*
 
 Promising data sources:
