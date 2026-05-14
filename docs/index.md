@@ -123,13 +123,19 @@ What would count as progress:
 
 -Earth embeddings for potential impacted areas/footprints 
 
+#Workflow Image
+
 ![Method or workflow visual](assets/hero/workflow.png)
 
-#Workflow Image
+
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
--Causal inference and earth embedding can improve prediction/estimation of fire impacted areas and help inform decision making 
+- Causal inference and earth embedding can improve prediction/estimation of fire impacted areas if ignition happens and help inform decision making. 
+- The idea is to input fire ignition locations as soon as we detected one (may be from GOES-R satellite data for real-time fire detection) to the twin model
+- Retrieve weather data closest that time
+- Retrive embedding data from 5 day-sentinel-2 or any closeset data to the time of ignition detection
+- then run the model and provide best estimate of probable burn area so that managment teams can act before the fire reach. 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -146,15 +152,15 @@ People who could use this: Local governments, fire fightings teams, forest servi
 
 -Earth Embeddings data from google AlphaEarth Foundation
 
-![Exploration figure](assets/explorations/Wildfires and Embeddings Data Set Merged.png)
+![Exploration figure](assets/figures/Wildfires_Embeddings Data.png)
 
 *Snapshot showing initial data patterns.*
 
 Promising data sources:
 
-- [Data source 1](#): ...
-- [Data source 2](#): ...
-- [Data source 3](#): ...
+- [Data source 1](#): GridMet climate data
+- [Data source 2](#): SRTM based elevation, slope, and aspect
+- [Data source 3](#): MTBS fire perimeter and area polygons
 - [Data source 4](#): ...
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
@@ -200,11 +206,12 @@ Long term:
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
 Headline 1 — what, where, how much
-
-...
+![Story visual](assets/figures/Boxplot.png)
+![Story visual](assets/figures/count_dist.png)
 
 Headline 2 — change/trend/contrast
-
+![Story visual](assets/figures/var_importance.png)
+![Story visual](assets/figures/location_testing.png)
 ...
 
 Headline 3 — implication for practice or policy
@@ -213,7 +220,8 @@ Headline 3 — implication for practice or policy
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
-![Story visual](assets/figures/main_result.png)
+
+![Story visual](assets/figures/Boxplot.png)
 
 *Visual 1: the main pattern or output we want people to remember.*
 
