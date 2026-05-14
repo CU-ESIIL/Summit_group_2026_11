@@ -131,7 +131,11 @@ What would count as progress:
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
--Causal inference and earth embedding can improve prediction/estimation of fire impacted areas and help inform decision making 
+- Causal inference and earth embedding can improve prediction/estimation of fire impacted areas if ignition happens and help inform decision making. 
+- The idea is to input fire ignition locations as soon as we detected one (may be from GOES-R satellite data for real-time fire detection) to the twin model
+- Retrieve weather data closest that time
+- Retrive embedding data from 5 day-sentinel-2 or any closeset data to the time of ignition detection
+- then run the model and provide best estimate of probable burn area so that managment teams can act before the fire reach. 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
