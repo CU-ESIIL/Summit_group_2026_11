@@ -21,11 +21,7 @@ public_mode_toggle: true
 
 # TwinFlames
 
-## Embedding informed digital twin for causal fire affected area prediction
-
-
-
-
+## Use the power of embedding and digital twin to identify probable burn area if we detect an ignition location near real time.
 
 
 !!! note "Day 1 directions"
@@ -87,9 +83,6 @@ Our decision making strategy:
 
 We will use gradient-of-agreement checks for major choices and or move to voting if we hit any bottlenecks
 
-## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
-
-!!! note "Day 2 Tasks"
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_11/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
@@ -112,12 +105,15 @@ Long term:
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
-Our working question:
+# Our working question:
 
--What is the affected burn area if ignited?
-...
+-What is the probable affected area if ignited?
+ 
+ Use the power of embedding and digital twin to identify probable burn area if we detect an ignition location near real time.
 
-What would count as progress:
+
+
+# What would count as progress:
 
 -Create a reproducable workflow incorporating earth embeddings to inform digital twin 
 
@@ -131,8 +127,8 @@ What would count as progress:
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
-- Causal inference and earth embedding can improve prediction/estimation of fire impacted areas if ignition happens and help inform decision making. 
-- The idea is to input fire ignition locations as soon as we detected one (may be from GOES-R satellite data for real-time fire detection) to the twin model
+- Use the power of causal inference and earth embedding can improve prediction/estimation of fire impacted areas if ignition happens and help inform decision making. 
+- The idea is to input fire ignition locations as soon as we detected one (may be from GOES-R satellite data for real-time fire detection) to the digital twin
 - Retrieve weather data closest that time
 - Retrive embedding data from 5 day-sentinel-2 or any closeset data to the time of ignition detection
 - then run the model and provide best estimate of probable burn area so that managment teams can act before the fire reach. 
@@ -174,23 +170,23 @@ Methods/technologies we are testing:
 
 | Method or technology | What we tested | Early note |
 |---|---|---|
-| ... | ... | ... |
+| Random Forest| Prediction of burn/no-burn and probable affected area | Initial test/no tuning of parameters yet |
 | ... | ... | ... |
 | ... | ... | ... |
 | ... | ... | ... |
 
 ### Challenges identified
 
-- ...
+- currently we use average emmbedding values per band per fire location and did not investigate the full range of capability of values in raster format
 - ...
 
 
 
 ### Next Steps
 
-Short term: 
+Short term: Fine tune the model and also include the cause of fire which we seems has an impact on burned and non-buned areas if we used only embedding and climate
 
-Long term: 
+Long term: Buld the UI to predict the potential affected area based on user inputs
 
 !!! note "Day 3 Tasks"
     Sythesis: highlight 2-3 visuals that tell the story; keep text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions -> Data/Methods -> Findings -> Next 
@@ -205,23 +201,22 @@ Long term:
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
-Headline 1 — what, where, how much
+Headline 1 — Burn probability of testing data and their distribution
 ![Story visual](assets/figures/Boxplot.png)
 ![Story visual](assets/figures/count_dist.png)
 
-Headline 2 — change/trend/contrast
+Headline 2 — Random forest importance of parameters in getting burn probability
 ![Story visual](assets/figures/var_importance.png)
-![Story visual](assets/figures/location_testing.png)
+
 ...
 
-Headline 3 — implication for practice or policy
-
+Headline 3 — Burn probability of our test locations
+![Story visual](assets/figures/location_testing.png)
 ...
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
 
-![Story visual](assets/figures/Boxplot.png)
 
 *Visual 1: the main pattern or output we want people to remember.*
 
