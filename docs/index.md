@@ -24,14 +24,6 @@ public_mode_toggle: true
 ## Use the power of embedding and digital twin to identify probable burn area if we detect an ignition location near real time.
 
 
-    [Edit Day 1 setup in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_11/edit/main/docs/index.md?plain=1#L21){ .md-button target="_blank" rel="noopener" }
-
-!!! tip "For ESIIL staff"
-    Group Number: 11
-    
-    Breakout Room #: Auditorium
-
-    [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_11/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
 
 
 ## People { #people .oasis-report-out-context }
@@ -47,7 +39,6 @@ public_mode_toggle: true
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
-!!! note "Day 1 task"
 
 Our team norms:
 
@@ -122,7 +113,7 @@ People who could use this: Local governments, fire fightings teams, forest servi
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
 -GEE fire database for colorado for 2020
-![Exploration figure](assets/figures/samples.png)
+![Exploration figure1](assets/figures/samples.png)
 
 -Earth Embeddings data from google AlphaEarth Foundation
 
@@ -139,10 +130,6 @@ Promising data sources:
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "methods"
-    Add 2-4 methods/technologies we're testing (stats, models, viz).
-
-[View shared code](https://github.com/CU-ESIIL/Summit_group_2026_11/tree/main/code){ .md-button }
 
 Methods/technologies we are testing:
 
@@ -165,11 +152,6 @@ Methods/technologies we are testing:
 Short term: Fine tune the model and also include the cause of fire which we seems has an impact on burned and non-buned areas if we used only embedding and climate
 
 Long term: Buld the UI to predict the potential affected area based on user inputs
-
-!!! note "Day 3 Tasks"
-    Sythesis: highlight 2-3 visuals that tell the story; keep text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions -> Data/Methods -> Findings -> Next 
-
-    [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_11/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
 
 
 ## Team Photo { #team-photo }
