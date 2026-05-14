@@ -20,6 +20,7 @@ public_mode_toggle: true
     
 
 # TwinFlames
+
 ## Use the power of embedding and digital twin to identify probable burn area if we detect an ignition location near real time.
 
 
@@ -124,7 +125,7 @@ What would count as progress:
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
 - Use the power of causal inference and earth embedding can improve prediction/estimation of fire impacted areas if ignition happens and help inform decision making. 
-- The idea is to input fire ignition locations as soon as we detected one (may be from GOES-R satellite data for real-time fire detection) to the twin model
+- The idea is to input fire ignition locations as soon as we detected one (may be from GOES-R satellite data for real-time fire detection) to the digital twin
 - Retrieve weather data closest that time
 - Retrive embedding data from 5 day-sentinel-2 or any closeset data to the time of ignition detection
 - then run the model and provide best estimate of probable burn area so that managment teams can act before the fire reach. 
@@ -173,7 +174,7 @@ Methods/technologies we are testing:
 
 ### Challenges identified
 
-- currently we use average emmbedding values per band per fire location and did not investigate the full range of values in raster format
+- currently we use average emmbedding values per band per fire location and did not investigate the full range of capability of values in raster format
 - ...
 
 
