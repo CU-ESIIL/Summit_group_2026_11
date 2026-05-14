@@ -21,7 +21,7 @@ public_mode_toggle: true
 
 # TwinFlames
 
-## Embedding informed digital twin for causal fire affected area prediction
+## Use the power of embedding and digital twin to identify probable burn area if we detect an ignition location.
 
 
 !!! note "Day 1 directions"
