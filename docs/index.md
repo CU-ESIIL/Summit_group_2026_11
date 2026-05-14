@@ -20,7 +20,7 @@ public_mode_toggle: true
     
 
 # TwinFlames
-## Use the power of embedding and digital twin to identify probable burn area if we detect an ignition location near real time. 📣
+## Use the power of embedding and digital twin to identify probable burn area if we detect an ignition location near real time.
 
 
 !!! note "Day 1 directions"
