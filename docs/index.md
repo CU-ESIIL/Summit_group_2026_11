@@ -123,9 +123,11 @@ What would count as progress:
 
 -Earth embeddings for potential impacted areas/footprints 
 
+#Workflow Image
+
 ![Method or workflow visual](assets/hero/workflow.png)
 
-#Workflow Image
+
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
@@ -152,9 +154,9 @@ People who could use this: Local governments, fire fightings teams, forest servi
 
 Promising data sources:
 
-- [Data source 1](#): ...
-- [Data source 2](#): ...
-- [Data source 3](#): ...
+- [Data source 1](#): GridMet climate data
+- [Data source 2](#): SRTM based elevation, slope, and aspect
+- [Data source 3](#): MTBS fire perimeter and area polygons
 - [Data source 4](#): ...
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
