@@ -123,9 +123,9 @@ What would count as progress:
 
 -Earth embeddings for potential impacted areas/footprints 
 
-### Visuals/Workflow Image
-
 ![Method or workflow visual](assets/hero/workflow.png)
+
+#Workflow Image
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
