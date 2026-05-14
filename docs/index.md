@@ -211,7 +211,7 @@ Headline 2 — Random forest importance of parameters in getting burn probabilit
 ...
 
 Headline 3 — Burn probability of our test locations
-![Story visual](assets/figures/location_testing.png)
+![Story visual](assets/figures/location_testing_2.png)
 ...
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
