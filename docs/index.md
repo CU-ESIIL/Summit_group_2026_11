@@ -106,7 +106,7 @@ Long term:
 
 Our working question:
 
--What is the affected burn area if ignited?
+-What is the probable affected area if ignited?
 ...
 
 What would count as progress:
