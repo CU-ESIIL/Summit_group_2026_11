@@ -145,6 +145,7 @@ People who could use this: Local governments, fire fightings teams, forest servi
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
 -GEE fire database for colorado for 2020
+![Exploration figure](assets/figures/samples.png)
 
 -Earth Embeddings data from google AlphaEarth Foundation
 
