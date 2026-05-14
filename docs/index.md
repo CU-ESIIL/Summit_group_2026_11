@@ -198,23 +198,22 @@ Long term: Buld the UI to predict the potential affected area based on user inpu
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
-Headline 1 — what, where, how much
+Headline 1 — Burn probability of testing data and their distribution
 ![Story visual](assets/figures/Boxplot.png)
 ![Story visual](assets/figures/count_dist.png)
 
-Headline 2 — change/trend/contrast
+Headline 2 — Random forest importance of parameters in getting burn probability
 ![Story visual](assets/figures/var_importance.png)
-![Story visual](assets/figures/location_testing.png)
+
 ...
 
-Headline 3 — implication for practice or policy
-
+Headline 3 — Burn probability of our test locations
+![Story visual](assets/figures/location_testing.png)
 ...
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
 
-![Story visual](assets/figures/Boxplot.png)
 
 *Visual 1: the main pattern or output we want people to remember.*
 
