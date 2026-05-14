@@ -216,7 +216,7 @@ Headline 3 — Burn probability of our test locations
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
-
+![Story visual](assets/figures/Interactive Dashboard.png)
 
 *Visual 1: the main pattern or output we want people to remember.*
 
